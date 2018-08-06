@@ -1,0 +1,11 @@
+.shiny-text {
+    -webkit-transition: 500ms linear 0s;
+    -moz-transition: 500ms linear 0s;
+    -o-transition: 500ms linear 0s;
+    transition: 500ms linear 0s;
+}
+
+.shiny-text-active {
+    text-shadow: 0 0 30px rgb(38, 192, 255);
+    color: rgb(69, 255, 253);
+}
