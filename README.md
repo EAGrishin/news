@@ -2,7 +2,7 @@ Install application
 ===================================
 
 ~~~
-git clone origin git@github.com:EAGrishin/news.git
+git clone git@github.com:EAGrishin/news.git
 composer global require "fxp/composer-asset-plugin:~1.1.1"
 composer install
 ./init 
